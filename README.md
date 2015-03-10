@@ -7,8 +7,8 @@ These repositories were created throughout the Front End Engineering bootcamp co
 
 **[Beers Around The World](https://github.com/ssettle3/ngBeers)**
  -- *Deployed [here](http://ssettle3.github.io/ngBeers/#/)*
-	* This project was to develop a basic CRUD application.
-	*Resources Used: Angular, Parse, Foundation, Filepicker*
+ * This project was to develop a basic CRUD application.
+ * Resources Used: Angular, Parse, Foundation, Filepicker*
 
 **[Todo List with Persistent Data](https://github.com/ssettle3/Backbone-Todo)**
  -- *Deployed [here](http://ssettle3.github.io/Backbone-Todo/)*
