@@ -33,12 +33,12 @@ These repositories were created throughout the Front End Engineering bootcamp co
 **[My GitHub](https://github.com/ssettle3/GitHub)**
 -- *Deployed [here](http://ssettle3.github.io/GitHub/)*
 > Project to re-create my own GitHub page using the GitHub API.
-* Resources Used: 
+* Resources Used: Underscore, SASS, HTML, CSS, jQuery, JavaScript, Bourbon/Neat, NPM, Bower, Gulp, Yeoman
 
 **[Etsy Page](https://github.com/ssettle3/EtsyjQuery)**
 -- *Deployed [here](http://ssettle3.github.io/EtsyjQuery/)*
 > Project to re-create an Etsy Search Page.
-* Resources Used:
+* Resources Used: JavaScript, HTML, CSS, jQuery, NPM, Bower, Gulp, Yeoman
 
 **[Accordion](https://github.com/ssettle3/Accordion)**
 -- *Deployed [here](http://ssettle3.github.io/Accordion/)*
@@ -49,6 +49,7 @@ These repositories were created throughout the Front End Engineering bootcamp co
 -- *Deployed [here](http://ssettle3.github.io/DigiClock/)*
 
 **[Quackulator](https://github.com/ssettle3/JS-Calculator)**
+> Basic calculator programmed to handle simple math.
 
 
 ## Basic Layout - HTML & CSS
@@ -70,8 +71,6 @@ These repositories were created throughout the Front End Engineering bootcamp co
 **[JavaScript Koans](https://github.com/ssettle3/javascript-koans/tree/passing/koans)**
 
 **[Constructors](https://github.com/ssettle3/Constructors-tiy-13)**
-
-[]()
 
 ## Other
 
