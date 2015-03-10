@@ -5,6 +5,10 @@ These repositories were created throughout the Front End Engineering bootcamp co
 
 ## Dynamic - HTML, CSS & JavaScript
 
+**[FlagTag](https://github.com/USPFTA/Front-End)**
+> This project was a weekend internal Hackathon with two Ruby on Rails developers and two iOS developers and myself on the Front End to develop an app for a company called SolTech
+* Resources Used: Angular, Foundation, Google Maps API, Gulp, NPM, Bower, Yeoman
+
 **[Beers Around The World](https://github.com/ssettle3/ngBeers)**
 -- *Deployed [here](http://ssettle3.github.io/ngBeers/#/)*
 > This project was to develop a basic CRUD application.
@@ -71,6 +75,8 @@ These repositories were created throughout the Front End Engineering bootcamp co
 **[JavaScript Koans](https://github.com/ssettle3/javascript-koans/tree/passing/koans)**
 
 **[Constructors](https://github.com/ssettle3/Constructors-tiy-13)**
+
+**[JavaScript Exercises](https://github.com/ssettle3/JS-HW7)**
 
 ## Other
 
