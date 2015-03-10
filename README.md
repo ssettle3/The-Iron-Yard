@@ -7,8 +7,8 @@ These repositories were created throughout the Front End Engineering bootcamp co
 
 **[Beers Around The World](https://github.com/ssettle3/ngBeers)**
  -- *Deployed [here](http://ssettle3.github.io/ngBeers/#/)*
- 	* This project was to develop a basic CRUD application.
- 	* *Resources Used: Angular, Parse, Foundation, Filepicker, Gulp, NPM, Bower, Yeoman*
+	* This project was to develop a basic CRUD application.
+	* *Resources Used: Angular, Parse, Foundation, Filepicker, Gulp, NPM, Bower, Yeoman*
 
 **[Todo List with Persistent Data](https://github.com/ssettle3/Backbone-Todo)**
  -- *Deployed [here](http://ssettle3.github.io/Backbone-Todo/)*
@@ -22,22 +22,22 @@ These repositories were created throughout the Front End Engineering bootcamp co
 
 **[Battle For Earth](https://github.com/ssettle3/myGame)**
  -- *Deployed [here](http://development.js-game.divshot.io/)*
-  * This project was to develop a turn based game
+	* This project was to develop a turn based game
 	* *Resources Used: jQuery, Underscore, SASS*
 
 **[Hip & Stir](https://github.com/xeinherjar/Hip-and-Spur)**
  -- *Deployed [here](http://xeinherjar.github.io/Hip-and-Spur/)*
-  * This was a group project where we had to create a website for a client that had certain requirements and deliverables that they wanted for their site. We pulled down data used on the site via their API.
+	* This was a group project where we had to create a website for a client that had certain requirements and deliverables that they wanted for their site. We pulled down data used on the site via their API.
 	* *Resources Used: jQuery, Underscore, SASS, Gulp, NPM, Bower, Yeoman*
 
 **[My GitHub](https://github.com/ssettle3/GitHub)**
  -- *Deployed [here](http://ssettle3.github.io/GitHub/)*
- 	* Project to re-create my own GitHub page using the GitHub API.
- 	* *Resources Used: 
+	* Project to re-create my own GitHub page using the GitHub API.
+	* *Resources Used: 
 
 **[Etsy Page](https://github.com/ssettle3/EtsyjQuery)**
  -- *Deployed [here](http://ssettle3.github.io/EtsyjQuery/)*
-	* Project to re-create an Etsy Search Page
+	* Project to re-create an Etsy Search Page.
 	* *Resources Used:
 
 **[Accordion](https://github.com/ssettle3/Accordion)**
