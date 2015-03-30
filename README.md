@@ -5,6 +5,11 @@ These repositories were created throughout the Front End Engineering bootcamp co
 
 ## Dynamic - HTML, CSS & JavaScript
 
+**[DwellingKit](https://github.com/dwellkit/dk-fe)**
+-- *Deployed [here](http://www.dwellingkit.com/#/)*
+> This was the final web based applicated project that was presented at the Iron Yard Demo Day.
+* Resources Used: Angular, Materialize, Google Maps API, Gulp, NPM, Bower, Yeoman
+
 **[FlagTag](https://github.com/USPFTA/Front-End)**
 > This project was a weekend internal Hackathon with two Ruby on Rails developers and two iOS developers and myself on the Front End to develop an app for a company called SolTech
 * Resources Used: Angular, Foundation, Google Maps API, Gulp, NPM, Bower, Yeoman
